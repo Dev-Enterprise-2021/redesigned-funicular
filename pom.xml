@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.redesigned-funicular</groupId>
   <artifactId>redesigned-funicular</artifactId>
-  <version>1.1.2</version>
+  <version>1.1.0</version>
   <name>JavaTestDemo</name>
   <packaging>jar</packaging>
   <description>This is Java Testing Demo</description>
